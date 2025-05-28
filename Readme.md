@@ -45,18 +45,15 @@ WIP
 
 ---
 
-# 📊 Estadísticas de GitHub
+# 📊 Estadísticas de github:
+![](https://github-readme-stats.vercel.app/api?username=AlexRL0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AlexRL0&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexRL0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<!-- GitHub stats from anuraghazra/github-readme-stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antoniocl1&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Antonio" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antoniocl1&layout=compact&theme=radical&hide_border=false" alt="Lenguajes más usados" height="180"/>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=AlexRL0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Gráfico de contribuciones opcional -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=antoniocl1&theme=radical&hide_border=false" alt="Gráfico de actividad de GitHub"/>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ---
 
