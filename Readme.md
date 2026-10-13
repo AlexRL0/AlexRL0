@@ -5,7 +5,7 @@
 <!-- Nivel 3: Código personalizado para el README -->
 
 🎓 Técnico Superior en **[Administración de Sistemas Informáticos en Red](https://todofp.es/que-estudiar/familias-profesionales/informatica-comunicaciones/admin-sist-informaticos-red.html)**, formado en el **[IES Celia Viñas](https://iescelia.org)**, Almería.    
-🛠️ Actualmente en vacaciones.  
+🛠️ Actualmente cursando IA y BigData y buscando activamente un trabajo.  
 🚀 Apasionado de la tecnología, la automatización, los sistemas windows y los proyectos que suponen un reto.  
 🌱 Siempre aprendiendo algo nuevo y desarrollando proyectos que me motivan.
 
